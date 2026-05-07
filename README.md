@@ -46,6 +46,17 @@ CrudDemo/
 ├── Program.cs
 └── CrudDemo.csproj
 ```
+---
+
+
+# Installation and Usage
+
+## 1. Clone the repository
+
+```bash
+git clone https://github.com/camilotenorio1234/dotnet-crud-usuarios-api.git
+cd dotnet-crud-usuarios-api
+```
 
 ---
 
@@ -224,6 +235,19 @@ CrudDemo/
 ├── appsettings.json
 ├── Program.cs
 └── CrudDemo.csproj
+```
+---
+
+## Español
+
+
+# Instalación y Uso
+
+## 1. Clonar repositorio
+
+```bash
+git clone https://github.com/camilotenorio1234/dotnet-crud-usuarios-api.git
+cd dotnet-crud-usuarios-api
 ```
 
 ---
